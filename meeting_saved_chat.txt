@@ -1,0 +1,16 @@
+20:13:53 From Yashwant Jankay to Everyone:
+	https://www.reddit.com/r/LocalLLaMA/comments/12v9jji/upgrading_pc_for_llama_cpu_vs_gpu/
+20:19:18 From Yashwant Jankay to Everyone:
+	https://docs.trychroma.com/getting-started
+20:30:36 From Yashwant Jankay to Everyone:
+	https://sbert.net/
+20:31:30 From Yashwant Jankay to Everyone:
+	https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5
+20:42:39 From Yashwant Jankay to Everyone:
+	https://huggingface.co/blog/image-similarity
+20:45:34 From Yashwant Jankay to Everyone:
+	https://github.com/ultralytics/ultralytics
+20:47:18 From Yashwant Jankay to Everyone:
+	https://github.com/roboflow/supervision
+20:49:14 From Yashwant Jankay to Everyone:
+	https://librosa.org/doc/latest/index.html

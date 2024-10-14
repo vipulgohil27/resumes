@@ -1,0 +1,35 @@
+MFA in Aws API gateway & Azure
+Certificate managment in API Gateway/ AZure 
+issues using multi cloud auth and how to troubleshoot it 
+what are the issues with API gateway and Azure Gateway
+What are component of API gateway , azure gateway
+Banks internal control and standards, security protocol 
+Bank’s application framework
+TerraForm, 
+Azure Resource Manager
+AWS CloudFront
+IAC - infra as code 
+Company’s risk and regulatory standards
+Identify risk-related issues needing escalation to management
+staffing, performance appraisals, promotions, salary recommendations, performance management and terminations
+
+
+Lead a team of talented engineers responsible for the support, maintenance, and enhancement of our API Gateway in the cloud environment.
+Take ownership of the end-to-end support process, from monitoring and troubleshooting to incident response and resolution, ensuring minimal downtime and optimal performance.
+Stay abreast of industry trends and emerging technologies in cloud-based API management and leverage this knowledge to drive innovation and drive strategic initiatives.
+Serve as a subject matter expert on API Gateway technologies, providing guidance and mentorship to team members and stakeholders.
+Collaborate closely with cross-functional teams including developers, DevOps engineers, and security specialists to implement best practices for API Gateway management and security.
+Drive continuous improvement initiatives to enhance the scalability, reliability, and efficiency of our API Gateway infrastructure.
+Implement technology consistent with Division standards and long-range plans. Ensure adherence to all Department and Technology standards and procedures, including all documentation requirements.
+Exercise usual authority of a manager concerning staffing, performance appraisals, promotions, salary recommendations, performance management and terminations.
+Understand and adhere to the Company’s risk and regulatory standards, policies and controls in accordance with the Company’s Risk Appetite.  Design, implement, maintain and enhance internal controls to mitigate risk on an ongoing basis.  Identify risk-related issues needing escalation to management.
+Promote an environment that supports diversity and reflects the M&T Bank brand.
+Maintain M&T internal control standards, including timely implementation of internal and external audit points together with any issues raised by external regulators as applicable.
+
+Deep understanding of cloud platforms such as AWS, Azure, or Google Cloud, and experience with API Gateway services (e.g., AWS API Gateway, Azure API Management).
+Experience with Docker containers and microservices.
+Experience with Infrastructure As Code (IAC) technologies such as Terraform, Azure Resource Manager or AWS CloudFormation.
+Relevant certifications such as AWS Certified Solutions Architect, Azure Solutions Architect Expert, or Google Cloud Professional Cloud Architect are a plus.
+Good understanding of the Bank’s application framework
+Aware of the Bank’s business plan and strategic objectives with ability to shape direction.
+Understanding business(es) supported and its’ terminology.
